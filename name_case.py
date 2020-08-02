@@ -1,3 +1,5 @@
+# 2 August 2020 — this programme is all about strings
+
 person_name = "ilesh"
 
 person = {
