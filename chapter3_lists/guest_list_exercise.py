@@ -3,7 +3,7 @@ for name in guests:
     invite_message = f"Dear {name.title()}, I invite you for dinner!"
     print(invite_message)
 
-
+print(f"{len(guests)} guests are invited")
 not_attending_guest = "aris"
 guests.remove(not_attending_guest)
 print(f"\nUnfortunately, {not_attending_guest.title()} cant make it :(")

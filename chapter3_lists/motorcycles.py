@@ -1,6 +1,6 @@
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
-
+print(motorcycles[-1])
 # replace the first item in the list "motorcycles"
 motorcycles.append('ducati')
 print(motorcycles)
