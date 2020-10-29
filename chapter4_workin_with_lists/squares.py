@@ -11,10 +11,5 @@ print(sum(digits))
 
 print("******\nLIST COMPREHENSION\n*******")
 
-squares = [value**2 for value in range(1, 11)]
+squares = [value ** 2 for value in range(1, 11)]
 print(squares)
-
-print("\n\n******\nExercise\n*******")
-
-# counting to twenty
-
